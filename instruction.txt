@@ -1,0 +1,16 @@
+To use this software, you should modify or config something.
+1. open it use vs2012
+2. in trello.cs, modify app_key, app_secret, member_name to your own trello account
+3. config and run redis, modify trello.cs redis_ip and redis_port accoding to you own redis server.
+
+
+
+I spent about 5 days to complete the project, the detailed timetable is:
+
+1. preparing windows and vs2012, figure out how mvc work in vs project     8h
+2. select front end framework, bootstrap       	5h
+3. get to understand trello and trello api      	4h
+4. familiarize myself with C# language     	5h   
+5. coding for front, page and js		8h
+6. coding for back end including trello api, oauth, redis and 		6h
+7. coding for test		3h
